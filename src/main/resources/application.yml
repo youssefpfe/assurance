@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://assurancedb.database.windows.net:1433;database=assurancedb;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://assurancemilitaire.database.windows.net:1433;database=assurancemilitaire;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     username: youssef
     password: Assurance123
   jpa:
